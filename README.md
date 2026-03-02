@@ -2,7 +2,7 @@
 東垣外 翔
 Tokyo, Japan : 1986-10-27
 
-[Twitter](https://twitter.com/azumag) / [Github](https://github.com/azumag) / [Qiita](https://qiita.com/azumag) / [ResearchGate](https://www.researchgate.net/profile/Tsubasa_Azumagakito) / [Google Scholar](https://scholar.google.com/citations?user=WnsN2WEAAAAJ&hl=en) 
+[Twitter](https://twitter.com/azumag) / [Github](https://github.com/azumag) / [Qiita](https://qiita.com/azumag) / [ResearchGate](https://www.researchgate.net/profile/Tsubasa_Azumagakito) / [Google Scholar](https://scholar.google.com/citations?user=WnsN2WEAAAAJ&hl=en) / [Zenn](https://zenn.dev/azumag)
 
 # Works
 - Data Analysis / Engineering / Science
